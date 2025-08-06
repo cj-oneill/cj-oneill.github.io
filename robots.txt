@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://cj-oneill.github.io/sitemap.xml
+Sitemap: https://cj-oneill.github.ioblank/sitemap.xml
