@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 5
 cv_pdf: CV_ONeill_Aug2025.pdf 
-description: 
+description: CJ O'Neill CV
 toc:
   sidebar: left
 ---
