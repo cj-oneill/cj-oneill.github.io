@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "",
+          description: "CJ O&#39;Neill CV",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
