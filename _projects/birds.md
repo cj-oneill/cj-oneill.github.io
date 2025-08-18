@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ohia sar
-description: an ecological synthetic-aperture radar application
+title: birds
+description: observations, photographs, and drawings
 img: assets/img/birds/SOSP.jpg
 importance: 1
 category: fun
