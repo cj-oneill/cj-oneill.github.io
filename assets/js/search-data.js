@@ -409,9 +409,9 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mountains/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-ohia-sar",
+          title: 'ohia sar',
+          description: "an ecological synthetic-aperature radar application",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ohiasar/";
             },},{
