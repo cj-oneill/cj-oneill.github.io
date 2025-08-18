@@ -396,7 +396,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-birds",
           title: 'birds',
-          description: "observations, photographs, and drawings",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/birds/";
             },},{id: "projects-ema-spacecraft-systems",
