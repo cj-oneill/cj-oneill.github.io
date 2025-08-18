@@ -394,19 +394,19 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-ohia-sar",
-          title: 'ohia sar',
-          description: "an ecological synthetic-aperture radar application",
+          section: "News",},{id: "projects-birds",
+          title: 'birds',
+          description: "observations, photographs, and drawings",
           section: "Projects",handler: () => {
               window.location.href = "/projects/birds/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+            },},{id: "projects-ema-spacecraft-systems",
+          title: 'ema spacecraft systems',
+          description: "research undert the emirates mission to the asteroid belt",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ema/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+            },},{id: "projects-mountaineering",
+          title: 'mountaineering',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mountains/";
             },},{id: "projects-project-2",
