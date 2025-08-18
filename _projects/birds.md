@@ -1,7 +1,7 @@
 ---
 layout: page
 title: birds
-description: observations, photographs, and drawings
+description:
 img: assets/img/birds/SOSP.jpg
 importance: 1
 category: fun

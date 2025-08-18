@@ -4,7 +4,7 @@ title: ema spacecraft systems
 description: research undert the emirates mission to the asteroid belt
 img: assets/img/EMA_logo.png
 importance: 2
-category: work
+category: academic
 giscus_comments: true
 ---
 
