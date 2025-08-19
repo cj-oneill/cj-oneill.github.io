@@ -396,12 +396,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-birds",
           title: 'birds',
-          description: "",
+          description: "photos, observations, drawings",
           section: "Projects",handler: () => {
               window.location.href = "/projects/birds/";
-            },},{id: "projects-ema-spacecraft-systems",
-          title: 'ema spacecraft systems',
-          description: "research undert the emirates mission to the asteroid belt",
+            },},{id: "projects-emirates-mission-to-the-asteroid-belt",
+          title: 'emirates mission to the asteroid belt',
+          description: "my time as an undergraduate researcher",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ema/";
             },},{id: "projects-mountaineering",
