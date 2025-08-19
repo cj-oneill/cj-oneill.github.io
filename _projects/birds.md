@@ -1,7 +1,7 @@
 ---
 layout: page
 title: birds
-description:
+description: photos, observations, drawings
 img: assets/img/birds/SOSP.jpg
 importance: 1
 category: fun
@@ -63,7 +63,7 @@ And occasionally, some vagrants make their way into Boulder as well:
     Anhinga from SE United States makes her way to 95th street, Boulder, CO, and stays the summer eating lots of tasty fish. 
 </div>
 
-In January 2025, I visited Hakaulau National Wildlife Refuge for birds and discovered much more... See [OhiaSAR][https://cj-oneill.com/projects/ohiasar/].
+In January 2025, I visited Hakaulau National Wildlife Refuge for birds and discovered much more... See <a href="https://cj-oneill.com/projects/ohiasar/">OhiaSAR</a>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
