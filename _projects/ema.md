@@ -2,7 +2,7 @@
 layout: page
 title: emirates mission to the asteroid belt
 description: my time as an undergraduate researcher
-img: assets/img/EMA_forDark.png
+img: assets/img/ema/EMA_forDark.png
 importance: 2
 category: academic
 giscus_comments: true
@@ -14,10 +14,10 @@ In May of 2023 I was wrapping up my freshman year, taking introductory engineeri
 <h2> Mission Introduction </h2>
 <div class="row">
     <div class="col-sm mt-2 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/EMA_forDark.png" title="EMA" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/ema/EMA_forDark.png" title="EMA" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-2 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/lasp_logo.png" title="LASP" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/ema/lasp_logo.png" title="LASP" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
