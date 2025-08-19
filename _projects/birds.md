@@ -39,15 +39,26 @@ I love to capture the resilience of winter birds as well:
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/birds/BCRF.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/birds/BCRF.jpg" title="Brown-capped Rosy Finch" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/birds/BBMA.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/birds/BBMA.jpg" title="Black-billed Magpie" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/birds/CANG.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/birds/CANG.jpg" title="Canada Goose" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     Snow birds. Left, Brown-capped Rosy Finch, 14,000+ ft, Torreys Peak, CO. Middle, Black-billed Magpie with Mule Deer, Jackson, WY. Right, Canada Goose, Walden Ponds, Boulder, CO.
+</div>
+
+And occasionally, some vagrants make their way into Boulder as well:
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/birds/ANHI.jpg" title="Anhinga" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Anhinga from SE United States makes her way to 95th street, Boulder, CO, and stays the summer eating lots of tasty fish. 
 </div>
