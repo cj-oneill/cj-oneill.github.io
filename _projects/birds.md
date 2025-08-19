@@ -8,12 +8,20 @@ category: fun
 related_publications: true
 ---
 
-Birding based out of Boulder, CO, most often at Confluence Ponds between class and work. Below is an assortment of bird photographs and drawings. Photos are taken using a Canon 5d Mark III with a 500mm f4.5 lens, occasionally with a 1.4x extender. Contributing to <a href="https://ebird.org/profile/NTgwMzc4MQ/world">eBird</a>.
-
+Birding based out of Boulder, CO. Below is an assortment of bird photographs and drawings. Photos are taken using a Canon 5d Mark III with a 500mm f4.5 lens, occasionally with a 1.4x extender. Contributing to <a href="https://ebird.org/profile/NTgwMzc4MQ/world">eBird</a>.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/birds/WCSP.jpg" title="White-crowned Sparrow, Guanella Pass, CO" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/birds/WCSP.jpg" title="White-crowned Sparrow" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    White-crowned Sparrow, Guanella Pass, CO. Lover of willows.
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/birds/WCSP.jpg" title="Lincoln's Sparrow, Guanella Pass, CO" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/birds/SOSP.jpg" title="Song Sparrow, Walden Ponds, Boulder, CO " class="img-fluid rounded z-depth-1" %}
@@ -23,7 +31,7 @@ Birding based out of Boulder, CO, most often at Confluence Ponds between class a
     </div>
 </div>
 <div class="caption">
-    Sparrow diversity. Left, White-crowned Sparrow, Guanella Pass, CO. Middle, Song Sparrow, Walden Ponds, Boulder, CO. Right, Rufous-collared Sparrow, Ollantaytambo, Peru.
+    Sparrow diversity. Left, Lincoln's Sparrow, Guanella Pass, CO. Middle, Song Sparrow, Walden Ponds, Boulder, CO. Right, Rufous-collared Sparrow, Ollantaytambo, Peru.
 </div>
 
 <div class="row">
