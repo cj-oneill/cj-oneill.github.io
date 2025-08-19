@@ -8,7 +8,10 @@ category: academic
 giscus_comments: true
 ---
 
+In May of 2023 I was wrapping up my freshman year, taking introductory engineering classes with almost zero knowledge of spacecraft design. Somehow, I got the call that I had been given the job offer for Spacecraft Systems Engineer at the Laboratory for Atmospheric and Space Physics. I remember having one of the biggest smiles in my life and I of course said yes. I've been at LASP working on the Emirates Mission to the Asteroid Belt for two and a half years now. This experience is a foundational part of my education and has truly changed the trajectory of my life.
 
+
+<h2> Mission Introduction </h2>
 <div class="row">
     <div class="col-sm mt-2 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/EMA_forDark.png" title="EMA" class="img-fluid rounded z-depth-1" %}
@@ -20,47 +23,68 @@ giscus_comments: true
 <div class="caption">
     The Emirates Mission to the Asteroid Belt, a joint project between the Laboratory for Atmospheric and Space Physics (LASP) and the United Arab Emirates Space Agency (UAESA).
 </div>
+
+The Emirates Mission to the Asteroid Belt (EMA), is a deep-space interplanetary mission developed in a partnership with LASP and the UAE Space Agency. The spacecraft will flyby six asteroids and enter into orbit about the seventh. To do this, gravity assists will be performed at Venus, Mars, and Earth.
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/ema/justitia.jpg" title="justitia" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Justitia, the ultimate destination of the Emirates Mission to the Asteroid Belt.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/ema/venus.jpg" title="venus" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/ema/earth.jpg" title="earth" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/ema/mars.jpg" title="mars" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    The three gravity assist bodies: Venus, Earth, and Mars. 
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+By visiting these asteroids with advanced remote sensing technology, we hope to contribute to further develop human understanding of asteroids and the history of our solar system. EMA is planned to launch in 2028.
 
-{% raw %}
+<h2> Involvement </h2>
 
-```html
+As a spacecraft systems engineer, it is crucial to be able to trace connections between each aspect of the spacecraft. Our team ensures that seperate subteams such as power, thermal, and communication are all cognizant of eachother's needs and limitations. To do this, I created interface documentation and led team-wide reviews for transparency.
+
+My work recently has transitioned from hardware to simulation, where I develop high-fideliy simulations to inform the concept of operations and spacecraft design. 
+
+In April 2025, I presented my paper, "Modeling Trajectory and Attitude to Optimize Baffle Design for the Optical Navigation System of the Emirates Mission to the Asteroid Belt" at the AIAA Region V Student Conference. 
+
 <div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/ema/Stud_AIAA.jpg" title="Student Presentation AIAA" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/ema/CJ_AIAA.jpg" title="CJ AIAA" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/ema/Pres_AIAA.jpg" title="Presentation AIAA" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
-```
+<div class="caption">
+    AIAA Region V Student Conference, University of Minnesota, April, 2025.
+</div>
 
-{% endraw %}
+This research detailed a geometric stray-light analysis using spacecraft and plantary ephemerides (position and velocity). I developed attitude algorithms to calculate the spacecraft's orientation about each of the target asteroids. This information informed baffle (similar to a camera lens hood) design for the optical navigation camera on the spacecraft. Judges evaluated the papers and presentations of the attendees, and I was awarded 1st place in the undergraduate category.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/ema/1stplace.jpg" title="AIAA Award" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    1st place, Undergraduate Division, AIAA Region V Student Conference.
+</div>
+
+After attending the conference, I moved from geometric analyses using Matlab and JPL's Spice to using a full-dynamics astrodynamics simulation framework, Basilisk. Developed by the AVS Lab at CU Boulder, Basilisk's open-source modular framework allows for incredible precision without necessitating missions to develop the same modeling tools over and over. I'm now working on producing simulations which use the software that the spacecraft will actually run on in space. This, along with dynamics calculations at 100Hz, allows for creation of unprecedented scenario modeling for the mission. I am currently working on producing gravity assist scenarios, trajectory correction manuevers, and day-in-the-lifes during proximity operations. The information produced from these scenarios is given to international instrument teams, subsystems, and mission systems team to develop flight rules and procedures.
