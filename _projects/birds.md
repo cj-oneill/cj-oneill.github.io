@@ -49,7 +49,7 @@ I love to capture the resilience of winter birds as well:
     </div>
 </div>
 <div class="caption">
-    Snow birds. Left, Brown-capped Rosy Finch, 14,000+ ft, Torreys Peak, CO. Middle, Black-billed Magpie with Mule Deer, Jackson, WY. Right, Canada Goose, Walden Ponds, Boulder, CO.
+    Snow birds. Left, Brown-capped Rosy Finch, 14268 ft, Torreys Peak, CO. Middle, Black-billed Magpie with Mule Deer, Jackson, WY. Right, Canada Goose, Walden Ponds, Boulder, CO.
 </div>
 
 And occasionally, some vagrants make their way into Boulder as well:
@@ -61,4 +61,34 @@ And occasionally, some vagrants make their way into Boulder as well:
 </div>
 <div class="caption">
     Anhinga from SE United States makes her way to 95th street, Boulder, CO, and stays the summer eating lots of tasty fish. 
+</div>
+
+In January 2025, I visited Hakaulau National Wildlife Refuge for birds and discovered much more... See [OhiaSAR][https://cj-oneill.com/projects/ohiasar/].
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/birds/IIWI.jpg" title="IIWI" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/birds/AKIA.jpg" title="NENE " class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/birds/HAAM.jpg" title="Hawaiian Amakihi" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Endemic Hawaiian Honeycreepers. Left, the renowned I'iwi, Hakaulau NWR, Hawai'i. Middle, 'Akiapola'au, Hakaulau NWR, Hawai'i. Right, Hawaiian Amakihi, Hakaulau NWR, Hawai'i.
+</div>
+
+The 'Akiapola'au pictured above is a key driver for me to pursue the O'hia project. This endemic's numbers are plummeting due to various factors with only a few hundred left in the wild.
+
+And possibly favorite capture, the Nene:
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/birds/HAGO.jpg" title="Nene" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Hawaiian state bird, Nene, Hakaulau NWR, Hawai'i.
 </div>
