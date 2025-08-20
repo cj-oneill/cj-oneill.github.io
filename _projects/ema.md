@@ -8,7 +8,7 @@ category: academic
 giscus_comments: false
 ---
 
-In May of 2023 I was wrapping up my freshman year, taking introductory engineering classes with almost zero knowledge of spacecraft design. Somehow, I got the call that I had been given the job offer for Spacecraft Systems Engineer at the Laboratory for Atmospheric and Space Physics. "I remember the excitement I felt when I received the job offer and of course accepted. I've been at LASP working on the Emirates Mission to the Asteroid Belt (EMA) for two and a half years now. This experience is a foundational part of my education and has truly changed the trajectory of my life.
+In May of 2023 I was wrapping up my freshman year, eager to dip my hands into aerospace research. During finals week, I got the call that I had been given the job offer for Spacecraft Systems Engineer at the Laboratory for Atmospheric and Space Physics. "I remember the excitement I felt when I received the job offer and of course accepted. I've been at LASP working on the Emirates Mission to the Asteroid Belt (EMA) for two and a half years now. This experience is a foundational part of my education and has truly changed the trajectory of my life.
 
 
 <h2> Mission Introduction </h2>
