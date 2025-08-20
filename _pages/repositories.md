@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
-description: repositories I work in, excluding private LASP ones.
+title: Repositories
+description: Repositories I work in, excluding private LASP ones
 nav: true
 nav_order: 4
 ---
