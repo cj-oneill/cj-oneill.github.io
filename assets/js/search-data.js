@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "section in work.",
+          description: "A Collection of my Research and Personal Projects",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -395,23 +395,23 @@ ninja.data = [{
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "projects-birds",
-          title: 'birds',
-          description: "photos, observations, drawings",
+          title: 'Birds',
+          description: "Photos, Observations, and Drawings",
           section: "Projects",handler: () => {
               window.location.href = "/projects/birds/";
             },},{id: "projects-emirates-mission-to-the-asteroid-belt",
-          title: 'emirates mission to the asteroid belt',
-          description: "my time as an undergraduate researcher",
+          title: 'Emirates Mission to the Asteroid Belt',
+          description: "My Time as an Undergraduate Researcher",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ema/";
-            },},{id: "projects-mountaineering",
-          title: 'mountaineering',
-          description: "",
+            },},{id: "projects-climbing",
+          title: 'Climbing',
+          description: "Mostly Bouldering around Boulder",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mountains/";
-            },},{id: "projects-ohia-sar",
-          title: 'ohia sar',
-          description: "an ecological synthetic-aperature radar application",
+            },},{id: "projects-ohia-sar-research",
+          title: 'Ohia SAR Research',
+          description: "An Ecological Synthetic-aperature Radar Application",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ohiasar/";
             },},{
