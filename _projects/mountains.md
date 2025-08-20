@@ -9,14 +9,24 @@ category: Fun
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/climb/darkHands.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Night climbing in Boulder Canyon, Boulder, CO. 
+</div>
+
+Climbing has been a massive influence in my life since I started at 12 years old. Since then, I have climbed year round, both indoors and outdoors.
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/climb/durango.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     Sailing Hawks, Durango, CO.    
 </div>
-
-Climbing has been a massive influence in my life since I started at 12 years old. Since then, I have climbed year round, both indoors and outdoors.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
