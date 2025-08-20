@@ -4,8 +4,7 @@ title: Ohia SAR Research
 description: An Ecological Synthetic-aperature Radar Application
 img: assets/img/ohia/capellaXband.png
 importance: 2
-category: academic
-giscus_comments: false
+category: Academic
 ---
 
 <h2> Introduction </h2>

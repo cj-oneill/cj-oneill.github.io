@@ -1,10 +1,10 @@
 ---
 layout: page
-title: mountaineering
+title: Climbing
 description: 
 img: assets/img/mountain.jpg
 importance: 4
-category: fun
+category: Fun
 ---
 
 Every project has a beautiful feature showcase page.

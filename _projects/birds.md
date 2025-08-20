@@ -1,11 +1,10 @@
 ---
 layout: page
-title: birds
-description: photos, observations, drawings
+title: Birds
+description: Photos, Observations, and Drawings
 img: assets/img/birds/SOSP.jpg
 importance: 1
-category: fun
-related_publications: true
+category: Fun
 ---
 
 Birding based out of Boulder, CO. Below is an assortment of bird photographs and drawings. Photos are taken using a Canon 5d Mark III with a 500mm f4.5 lens, occasionally with a 1.4x extender. Small collection of photos here, hundreds more on <a href="https://ebird.org/profile/NTgwMzc4MQ/world">eBird</a>, a citizen data science project developed by the Cornell Lab of Ornithology.
