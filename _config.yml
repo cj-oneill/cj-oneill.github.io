@@ -195,6 +195,7 @@ exclude:
   - _projects/5_project.md
   - _projects/6_project.md
   - _projects/7_project.md
+  - _pages/repositories.md
 
 keep_files:
   - CNAME
