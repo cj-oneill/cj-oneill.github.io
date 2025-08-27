@@ -53,7 +53,7 @@ The 365 day observation windows leave large gaps for improvement. If satellites 
     Capella X-band SAR and the endemic 'I'iwi on an Ohia.
 </div>
 
-To determine the feasibility of this technology, I am simulating the forest canopy and its reflection. In June, I submitted a paper with [Dr. Sean Peters](https://www.colorado.edu/aerospace/sean-peters) to the [2026 AIAA SciTech Forum](https://www.bing.com/search?q=aiaa%20scitech&qs=n&form=QBRE&sp=-1&lq=0&pq=20aiaa%20scitech&sc=9-14&sk=&cvid=D86FE8B8ABA245F6AAD6E475AF81EB37) detailing how the changed reflectivity between healthy and infected trees is significant enough for SAR detection.
+To determine the feasibility of this technology, I am simulating the forest canopy and its reflection. In June, I submitted a paper with [Dr. Sean Peters](https://www.colorado.edu/aerospace/sean-peters) to the [2026 AIAA SciTech Forum](https://www.bing.com/search?q=aiaa%20scitech&qs=n&form=QBRE&sp=-1&lq=0&pq=20aiaa%20scitech&sc=9-14&sk=&cvid=D86FE8B8ABA245F6AAD6E475AF81EB37) detailing how the changed reflectivity between healthy and infected trees is significant enough for SAR detection. This paper was accepted on August 25th, and I will present early January in Orlando.
 
 <div class="row">
     <div class="col-sm-6 mt-3 mt-md-0">

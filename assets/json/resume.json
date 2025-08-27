@@ -119,6 +119,11 @@
   ],
   "awards": [
     {
+      "title": "Charles A. Barth Scholarship in Space Research",
+      "date": "2025-08",
+      "awarder": "The Laboratory for Atmospheric and Space Physics (LASP)"
+    }
+    {
       "title": "Henry Ogrodzinski Scholarship Recipient",
       "date": "2025-06",
       "awarder": "National Association of State Aviation Officials (National)"
@@ -181,14 +186,14 @@
       "name": "Modeling Trajectory and Attitude to Optimize Baffle Design for the Optical Navigation System of the Emirates Mission to the Asteroid Belt",
       "publisher": "Aerospace Research Central, AIAA SciTech Forum",
       "releaseDate": "2025-06",
-      "summary": "In review",
+      "summary": "Accepted",
       "authors": "Christopher M. O’Neill Jr., Michael Bonnici"
     },
     {
       "name": "Tracking the Spread of Rapid Ohia Death Using SAR",
       "publisher": "AIAA SciTech Forum",
       "releaseDate": "2025-06",
-      "summary": "In review",
+      "summary": "Accepted",
       "authors": "Christopher M. O’Neill Jr., S.T. Peters"
     }
   ],
