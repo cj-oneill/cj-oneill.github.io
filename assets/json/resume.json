@@ -104,8 +104,9 @@
       "studyType": "B.S.",
       "startDate": "2022-08",
       "endDate": "2026-05",
-      "gpa": "3.95",
+      "gpa": "3.96",
       "courses": [
+        "Spacecraft Design",
         "Radar and Remote Sensing",
         "Aerospace Electronics",
         "Planets and their Atmospheres",
@@ -118,6 +119,11 @@
     }
   ],
   "awards": [
+    {
+      "title": "Abraham Anson Memorial Scholar",
+      "date": "2025-12",
+      "awarder": "American Society for Photogrammetry and Remote Sensing (ASPRS)"
+    },
     {
       "title": "Charles A. Barth Scholarship in Space Research",
       "date": "2025-08",
@@ -156,12 +162,12 @@
     {
       "title": "CU Boulder Esteemed Scholar - President Horace M. Hale Award",
       "date": "2022-08 - Present",
-      "summary": "Received 6 times"
+      "summary": "Received 7 times"
     },
     {
       "title": "Dean's List - College of Engineering and Applied Science",
       "date": "2022-08 - Present",
-      "summary": "Received 6 times"
+      "summary": "Received 7 times"
     },
     {
       "title": "1st Place - Freshman Projects Section, Autonomous Soil Rover",

@@ -105,3 +105,35 @@ And possibly my favorite capture, the Nene:
 <div class="caption">
     Hawaiian state bird, Nene, Hakaulau NWR, Hawai'i.
 </div>
+
+In late 2025, my great uncle Leo took me to one of the most incredible places to bird in the Americas, Costa Rica. Below are some images on my 500mm from the Talamancan region.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/birds/CR_2025_Best-10.jpg" title="Sooty-capped Chlorospingus" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/birds/CR_2025_Best-15.jpg" title="Volcano Junco" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/birds/CR_2025_Best-22.jpg" title="Golden-hooded Tanager" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Sooty-capped Chlorospingus, Volcano Junco, and Golden-hooded Tanager. 
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/birds/CR_2025_Best-01.jpg" title="Green Hermit" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/birds/CR_2025_Best-05.jpg" title="Collared Aracari" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/birds/CR_2025_Best-09.jpg" title="Fiery-throated Hummingbird" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Green Hermit, Collared Aracari, and Fiery-throated Hummingbird
+</div>

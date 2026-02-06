@@ -53,7 +53,7 @@ The 365 day observation windows leave large gaps for improvement. If satellites 
     Capella X-band SAR and the endemic 'I'iwi on an Ohia.
 </div>
 
-To determine the feasibility of this technology, I am simulating the forest canopy and its reflection. In June, I submitted a paper with [Dr. Sean Peters](https://www.colorado.edu/aerospace/sean-peters) to the [2026 AIAA SciTech Forum](https://www.bing.com/search?q=aiaa%20scitech&qs=n&form=QBRE&sp=-1&lq=0&pq=20aiaa%20scitech&sc=9-14&sk=&cvid=D86FE8B8ABA245F6AAD6E475AF81EB37) detailing how the changed reflectivity between healthy and infected trees is significant enough for SAR detection. This paper was accepted on August 25th, and I will present early January in Orlando.
+To determine the feasibility of this technology, I am simulating the forest canopy and its reflection. In January 2026, I presented a paper with [Dr. Sean Peters](https://www.colorado.edu/aerospace/sean-peters) to the [2026 AIAA SciTech Forum](https://www.bing.com/search?q=aiaa%20scitech&qs=n&form=QBRE&sp=-1&lq=0&pq=20aiaa%20scitech&sc=9-14&sk=&cvid=D86FE8B8ABA245F6AAD6E475AF81EB37) detailing how the changed reflectivity between healthy and infected trees is significant enough for SAR detection.
 
 <div class="row">
     <div class="col-sm-6 mt-3 mt-md-0">
@@ -67,10 +67,21 @@ To determine the feasibility of this technology, I am simulating the forest cano
     A 2D relfecitivy map of simulated Ohia canopy with brown trees representing ROD, and green trees representing healthy Ohia. Dark squares show low reflectivity while white squares represent high reflectivity.
 </div>
 
-Now I am working on a drastically improved simulation which takes into account a 3D scene with a real satellite path simulating transmitted pulse and reception from the scene.
+In addition, an improved simulation which takes into account a 3D scene with a real satellite path simulating transmitted pulse and reception from the scene is underway.
 
 <div class="row">
     <div class = "col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/ohia/terrain_3d.png" title="Terrain 3D" class="img-fluid rounded z-depth-1" %}
     <div>
+</div>
+
+Benjamin Atkinson and I continued this work by developing a machine learning approach to detect ROD. We use a combination of remote sensing data sets to train the model in order to predict new detections. 
+
+<div class="row">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/ohia/hawaii_ml_data_overlay.png" title="Data used for ML training: airborne detections, tree canopy cover, AlphaEarth, and Sentinel-1 C-band SAR" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/ohia/hawaii_ML_jan26.png.jpg" title=". (a) Ground Truth Label, (b) SAR Only Prediction (c) SAR + Embedding Prediction" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
