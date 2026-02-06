@@ -392,6 +392,11 @@ ninja.data = [{
           description: "Photos, Observations, and Drawings",
           section: "Projects",handler: () => {
               window.location.href = "/projects/birds/";
+            },},{id: "projects-undead-reckoning",
+          title: 'Undead Reckoning',
+          description: "A GNSS-denied autonomous sensor-fusion aircraft",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/dead_reckoning/";
             },},{id: "projects-emirates-mission-to-the-asteroid-belt",
           title: 'Emirates Mission to the Asteroid Belt',
           description: "My Time as an Undergraduate Researcher",
@@ -407,6 +412,11 @@ ninja.data = [{
           description: "An Ecological Synthetic-aperature Radar Application",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ohiasar/";
+            },},{id: "projects-autonomous-soil-rover",
+          title: 'Autonomous Soil Rover',
+          description: "My First Experience from Ideation to Creation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/soil_rover/";
             },},{
         id: 'social-email',
         title: 'email',
