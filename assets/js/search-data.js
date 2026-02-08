@@ -387,12 +387,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-birds",
-          title: 'Birds',
-          description: "Photos, Observations, and Drawings",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/birds/";
-            },},{id: "projects-undead-reckoning",
+          section: "News",},{id: "projects-undead-reckoning",
           title: 'Undead Reckoning',
           description: "A GNSS-denied autonomous sensor-fusion aircraft",
           section: "Projects",handler: () => {
