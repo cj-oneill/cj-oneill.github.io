@@ -1,4 +1,4 @@
----
+s---
 layout: page
 title: Birds
 description: Photos, Observations, and Drawings
@@ -112,6 +112,12 @@ In late 2025, my great uncle Leo took me to one of the most incredible places to
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/birds/CR_2025_Best-10.jpg" title="Sooty-capped Chlorospingus" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+<div class="caption">
+    Sooty-capped Chlorospingus. 
+</div>
+
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/birds/CR_2025_Best-15.jpg" title="Volcano Junco" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -120,20 +126,28 @@ In late 2025, my great uncle Leo took me to one of the most incredible places to
     </div>
 </div>
 <div class="caption">
-    Sooty-capped Chlorospingus, Volcano Junco, and Golden-hooded Tanager. 
+    Volcano Junco and Golden-hooded Tanager. 
+</div>
+
+<div class="row">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/birds/CR_2025_Best-01.jpg" title="Green Hermit" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/birds/CR_2025_Best-05.jpg" title="Collared Aracari" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="caption">
+    Green Hermit and Collared Aracari
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/birds/CR_2025_Best-01.jpg" title="Green Hermit" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/birds/CR_2025_Best-05.jpg" title="Collared Aracari" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/birds/CR_2025_Best-09.jpg" title="Fiery-throated Hummingbird" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
 <div class="caption">
-    Green Hermit, Collared Aracari, and Fiery-throated Hummingbird
+    Fiery-throated Hummingbird
 </div>
