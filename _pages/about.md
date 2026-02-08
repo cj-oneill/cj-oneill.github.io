@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a senior at CU Boulder studying [aerospace engineering](https://www.colorado.edu/aerospace/) and minoring in planetary science. 
+I'm a senior at CU Boulder studying [aerospace engineering](https://www.colorado.edu/aerospace/) and minoring in planetary science. This summer I'll be hiking the 2650 mile long Pacific Crest Trail raising money and awareness for the Alzheimer's Association. Please consider donating to the [gofundme](https://gofund.me/9e7e1c16a).
 
 Undergraduate Research Assistant at the [Laboratory for Atmospheric and Space Physics](https://lasp.colorado.edu/) as a Spacecraft Systems Engineer for the [Emirates Mission to the Asteroid Belt (EMA)](https://space.gov.ae/en/initiatives-and-projects/uae-mission-to-asteroid-belt-ema) since the end of my freshman year. At LASP, I primarily work on astrodynamics simulations in [Basilisk](https://lasp.github.io/basilisk/), which enable robust mission design. In April of 2025, I received [1st place an AIAA Student Conference](https://aiaa.org/2025/05/15/aiaa-announces-2025-regional-student-conference-winners/#:~:text=%E2%80%93%20The%20American%20Institute%20of%20Aeronautics%20and%20Astronautics,and%20team%20categories%20%28listed%20below%29%20receive%20cash%20prizes.), and was fully funded to present my work on optimizing baffle design for EMA at the 2026 [AIAA SciTech Forum](https://aiaa.org/scitech/).
 
@@ -34,4 +34,4 @@ Lead of the sensor subteam in my senior projects group where I lead a team of 10
 
 Outside of school and LASP work, I've been performing research with [Dr. Sean Peters](https://www.colorado.edu/aerospace/sean-peters) into detecting the spread of a [fungal pathogen ravaging Hawaiian forests](https://www.nps.gov/havo/learn/nature/rapid-ohia-death.htm#:~:text=Rapid%20%CA%BB%C5%8Chi%CA%BBa%20Death%20%28ROD%29%20is%20newly%20identified%20fungal,of%20water%2C%20and%20may%20kill%20%CA%BB%C5%8Dhi%CA%BBa%20very%20quickly.) with [synthetic aperature radar](https://www.bing.com/search?q=synthetic+aperature+radar&qs=n&form=QBRE&sp=-1&lq=0&pq=synthetic+aperature+rada&sc=12-24&sk=&cvid=9C2792A20A934FDCA0024A3F720D272B). I learned about the issue during a birding tour in the big island in January 2025. Soon after, I began taking Radar & Remote Sensing with Dr.Peters and first thought of linking the two. During that semester and into the summer, I worked on developing first principles based SAR simulations of the problem. We expanded the team and with Benjamin Atkinson, trained a machine learning model to detect the disease.
 
-In my free time, I'm probably either climbing, birding, hiking, or snowboarding. This summer I'll be hiking the 2650 mile long Pacific Crest Trail raising money and awareness for the Alzheimer's Association. Please consider donating to the [gofundme](https://gofund.me/9e7e1c16a).
+In my free time, I'm probably either climbing, birding, hiking, or snowboarding. 
