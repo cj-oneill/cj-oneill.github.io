@@ -1,4 +1,4 @@
-s---
+---
 layout: page
 title: Birds
 description: Photos, Observations, and Drawings
@@ -66,6 +66,7 @@ I love to capture the resilience of winter birds as well:
 </div>
 
 And occasionally, some vagrants make their way into Boulder:
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
