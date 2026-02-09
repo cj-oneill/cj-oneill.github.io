@@ -35,6 +35,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "projects-birds",
+          title: 'Birds',
+          description: "Photos, Observations, and Drawings",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/birds/";
             },},{id: "projects-undead-reckoning",
           title: 'Undead Reckoning',
           description: "A GNSS-denied autonomous sensor-fusion aircraft",
